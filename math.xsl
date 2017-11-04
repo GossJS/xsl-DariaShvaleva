@@ -9,6 +9,7 @@
                 <script src='https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML'></script>
             </head>
             <body>
+                <h1> MathML документ в обработке </h1>
                 <math  display="block">
                     <xsl:apply-templates/>
                 </math>
